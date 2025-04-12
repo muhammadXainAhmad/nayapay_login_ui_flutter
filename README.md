@@ -1,16 +1,31 @@
-# nayapay_loginpage_1
+# NayaPay Login UI Design (Flutter)
 
-A new Flutter project.
+A simple Flutter-based UI design of the NayaPay mobile app login and signup flow.  
+This project was created purely as a **UI exercise** and is not connected to any backend or authentication service.
 
-## Getting Started
+## Features 📱
+- 🟠 NayaPay-themed splash-style home screen  
+- 📩 Login flow with step-wise navigation  
+- 🧾 Signup flow collecting basic user info  
+- 📦 Clean UI using Flutter widgets  
+- 🔁 Screen transitions using Navigator
+- 📐 Simple layout with `TextField`, `RichText`, and `ElevatedButton`  
 
-This project is a starting point for a Flutter application.
+## Screenshots 📸
+### **Home Page**
+<img src="screenshots/homePage.png" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+### **Login Page**
+<img src="screenshots/loginPage.png" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### **Signup Page**
+<img src="screenshots/signupPage.png" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack 🔧
+- 🧱 **Flutter** (UI development)  
+- 🎨 **Material Design 3**  
+- 🧪 **Dart** (programming language)  
+
+## Disclaimer 🚧
+This is **not** an official NayaPay app. It was built solely for learning and showcasing Flutter UI capabilities.  
+No data is collected or sent anywhere.
